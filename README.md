@@ -19,9 +19,9 @@ Estructura de la plantilla:
 -----
 '''''
 /----
-    |- css .- Hojas de estilo para las páginas html
-    |- img .- imagenes utilizadas en las páginas html
-    |- varios .- Archivos para el diseño de readme.
+ |- css .- Hojas de estilo para las páginas html
+ |- img .- imagenes utilizadas en las páginas html
+ |- varios .- Archivos para el diseño de readme.
 
 Autor:
 Christian
